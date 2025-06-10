@@ -6,6 +6,9 @@ I was tasked to analyse data and develop a report about my analysis. This was ho
 
 After analysing and coming up with different visualisations, I have come up with the following report.
 
+![image](https://github.com/user-attachments/assets/bc186c57-ab65-4702-91b5-397b464c2d63)
+
+
 SUPERHERO U CAMPAIGN ANALYSIS REPORT
 
 Why This Analysis Was Done
